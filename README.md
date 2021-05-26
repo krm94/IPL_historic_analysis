@@ -21,3 +21,4 @@ As a cricket fan in India, I closely follow the annual T20 cricket competitionâ€
 
 ### Licensing, Authors, Acknowledgements, etc.
 Data source - https://www.kaggle.com/manasgarg/ipl
+License - MIT License
